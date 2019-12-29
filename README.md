@@ -4,15 +4,19 @@ the centers of any detected circles of about that size.
 
 # Examples
 Given image:
+
 ![Egg](/egg.jpg)
 
 Binary Image of edges:
+
 ![Img1](/Img1.JPG)
 
 Accumulator array:
+
 ![Img2](/Img2.JPG)
 
 Detected circles of radius 5:
+
 ![Img3](/Img3.JPG)
 
 # File Summay
